@@ -1,8 +1,8 @@
-# LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-Assisted Outdoor Hotspots
+# Parallel Optimal Deep Echo State Network
 ## Introduction
-This repository is a generic implementation and example of "Parallel Optimal Deep Echo State Network", the system architecture was presented in "LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-Assisted Outdoor Hotspots" in IEEE Transactions on Cognitive Communication and Network. [[Paper]](https://ieeexplore.ieee.org/document/9548955) [[Slides]](https://haoran-peng.github.io/Slides/LEOPARD_TCCN.pdf) 
+This repository is a generic implementation and example of "Parallel Optimal Deep Echo State Network", but not the full implementation of the article "LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-Assisted Outdoor Hotspots". Therefore, you can use this repository to train your own model and the system architecture was presented in this paper [[LEOPARD]](https://ieeexplore.ieee.org/document/9548955)  [[Slides]](https://haoran-peng.github.io/Slides/LEOPARD_TCCN.pdf)  in IEEE Transactions on Cognitive Communication and Network. 
 
-You can train your own model using this repository.
+
 
 The implementation of DeepESN is based on [lucapedrelli-DeepESN](https://github.com/lucapedrelli/DeepESN) and [Xeeshanmalik-deep_ml_esn](https://github.com/Xeeshanmalik/deep_ml_esn).
 
