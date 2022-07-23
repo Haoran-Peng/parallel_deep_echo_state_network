@@ -1,6 +1,6 @@
 # Parallel Optimal Deep Echo State Network
 ## Introduction
-This repository is a generic implementation and example of "Parallel Optimal Deep Echo State Network", but not the full implementation of the article "LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-Assisted Outdoor Hotspots". Therefore, you can use this repository to train your own model and the system architecture was presented in this paper [[LEOPARD]](https://ieeexplore.ieee.org/document/9548955)  [[Slides]](https://haoran-peng.github.io/Slides/LEOPARD_TCCN.pdf). 
+This repository is a generic implementation and example of "Parallel Optimal Deep Echo State Network", but not the full implementation of the article "LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-Assisted Outdoor Hotspots". Therefore, you can use this repository to train your model or as a benchmark for comparison. The system architecture was presented in this paper [[LEOPARD]](https://ieeexplore.ieee.org/document/9548955)  [[Slides]](https://haoran-peng.github.io/Slides/LEOPARD_TCCN.pdf). 
 
 
 
